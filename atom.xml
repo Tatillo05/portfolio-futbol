@@ -3,34 +3,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Portfolio de Juan Antonio | Entrenador de Fútbol</title>
     <subtitle>Portfolio profesional de entrenador de fútbol base, con experiencia en formación de jóvenes jugadores y arbitraje.</subtitle>
-    <link href="https://tu-portfolio.es" rel="alternate"/>
-    <id>https://tu-portfolio.es</id>
+    <link href="https://tatillo05.github.io/portfolio-futbol" rel="alternate"/>
+    <id>https://tatillo05.github.io/portfolio-futbol</id>
     <updated>2026-11-13T21:00:00+01:00</updated>
 <author>
     <name>Juan Antonio</name>
 </author>
 <entry>
     <title>Mi perfil profesional como entrenador</title>
-    <id>https://tu-portfolio.es/#perfil</id>
+    <id>https://tatillo05.github.io/portfolio-futbol/#perfil</id>
     <published>2026-11-13T22:00:00+01:00</published>
     <updated>2026-11-23T18:35:00+01:00</updated>
-    <link href="https://tu-portfolio.es/#perfil" rel="alternate"/>
+    <link href="https://tatillo05.github.io/portfolio-futbol/#perfil" rel="alternate"/>
     <summary>Presentación de mi trayectoria como entrenador de fútbol base, mi formación UEFA C y mi experiencia en el arbitraje.</summary>
 </entry>
 <entry>
     <title>Mi trayectoria como entrenador</title>
-    <id>https://tu-portfolio.es/#trayectoria</id>
+    <id>https://tatillo05.github.io/portfolio-futbol/#trayectoria</id>
     <published>2026-11-13T22:00:00+01:00</published>
     <updated>2026-11-23T18:35:00+01:00</updated>
-    <link href="https://tu-portfolio.es/#trayectoria" rel="alternate"/>
+    <link href="https://tatillo05.github.io/portfolio-futbol/#trayectoria" rel="alternate"/>
     <summary>Experiencia de cinco años como entrenador de fútbol base en las categorías Bebé, Prebenjamín y Benjamín, además de un año como delegado de equipo.</summary>
 </entry>
 <entry>
     <title>Mi experiencia como árbitro</title>
-    <id>https://tu-portfolio.es/#arbitraje</id>
+    <id>https://tatillo05.github.io/portfolio-futbol/#arbitraje</id>
     <published>2026-11-13T22:00:00+01:00</published>
     <updated>2026-11-23T18:35:00+01:00</updated>
-    <link href="https://tu-portfolio.es/#arbitraje" rel="alternate"/>
+    <link href="https://tatillo05.github.io/portfolio-futbol/#arbitraje" rel="alternate"/>
     <summary>Cuento con 12 años de experiencia como árbitro de fútbol base en la Liga de Escuelas de Córdoba.</summary>
 </entry>
 </feed>
