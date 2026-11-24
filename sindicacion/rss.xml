@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+    <title>Portfolio de Juan Antonio | Entrenador de Futbol</title>
+   <description>Portfolio profesional de entrenador de futbol base, con experiencia en formacion de
+    jovenes jugadores y arbitraje</description>
+    <link>https://tatillo05.github.io/portfolio-futbol</link>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 13 Nov 2026 20:00:00 +0100</lastBuildDate>
+    <item>
+       <title>Mi perrfil profesional como entrenador</title>
+        <description>Presentacion de mi trayectoria como entrenador de futbol base, 
+         mi formacion UEFA C y mi experiencia en el arbitraje</description>
+        <link>https://tatillo05.github.io/portfolio-futbol/#perfil</link>
+        <pubDate>Fri, 13 Nov 2026 20:00:00 +0100</pubDate>
+        <guid>perfil-profesional-2026</guid>
+        </item>
+        <item>
+            <title>Mi trayectoria como entrendor</title>
+            <description>Experiencia de cinco años como entrenador de fútbol base en las categorías Bebé, Prebenjamín y Benjamín, además de un año como delegado de equipo.</description>
+            <link>https://tatillo05.github.io/portfolio-futbol/#trayectoria</link>
+            <pubDate>Fri, 13 Nov 2026 20:00:00 +0100</pubDate>
+            <guid>trayectoria-entrenador-2026</guid>
+        </item>
+        <item>
+            <title>Mi experiencia como árbitro</title>
+            <description>Cuento con 12 años de experiencia como árbitro de fútbol base en la Liga de Escuelas de Córdoba.</description>
+            <link>https://tatillo05.github.io/portfolio-futbol/#arbitraje</link>
+            <pubDate>Fri, 13 Nov 2026 20:00:00 +0100</pubDate>
+            <guid>experiencia-arbitral-2026</guid>
+        </item>    
+      </channel>
+</rss>
